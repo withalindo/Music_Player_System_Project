@@ -63,7 +63,12 @@ const music_list = [
         artist : 'Encore',
         music : 'Music/Encore - Na pawar golpo.mp3',
     },
-   
+    {
+        img : 'images/shinzou wo sasageyo.jpg' ,
+        name : 'shinzou wo sasageyo',
+        artist : 'Linked Horizon',
+        music : 'Music/Shinzou wo Sasageyo!.mp3'
+    },
 
 ];
 
