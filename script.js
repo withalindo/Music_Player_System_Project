@@ -24,13 +24,13 @@ const music_list = [
     {
         img : 'images/achi_kingba_nei.jpg',
         name : 'Achi Kingba Nei',
-        artist : 'SHISHIR ft RAFA',
+        artist : 'Shishir ft Rafa',
         music : 'Music/Achi Kingba Nei - Shishir ft. Rafa  Official Music Video.mp3'
     },
     {
         img : 'images/Nijeke_Harabar_Bhoy.jpg',
         name : 'Nijeke Harabar Bhoy',
-        artist : 'SHISHIR ft RAFA',
+        artist : 'Shishir ft Rafa',
         music : 'Music/Nijeke Harabar Bhoy - Shishir ft. Rafa  নজক হরবর ভয়  Official Music Video.mp3'
     },
     {
