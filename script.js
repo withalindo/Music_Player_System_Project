@@ -69,6 +69,12 @@ const music_list = [
         artist : 'Linked Horizon',
         music : 'Music/Shinzou wo Sasageyo!.mp3'
     },
+    {
+        img : 'images/Obak_Bhalobasha.jpg' ,
+        name : 'Obak Bhalobasha',
+        artist : 'Coke Studio ft. Warfaze',
+        music : 'Music/Obak Bhalobasha  Coke Studio Bangla  Season 3  Warfaze.mp3'
+    },
 
 ];
 
